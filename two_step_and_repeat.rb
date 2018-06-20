@@ -10,6 +10,7 @@ loop do
   sleep(0.5)
   puts "Stop"
   sleep(1)
+  break
 end
 
 def a_few_more_steps
